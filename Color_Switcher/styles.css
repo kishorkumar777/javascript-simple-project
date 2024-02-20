@@ -1,0 +1,23 @@
+span{
+    margin:5px;
+}
+.button{
+    display:inline-block;
+    height:150px;
+    width: 150px;
+    border: 2px solid black;
+    
+}
+
+#grey{
+    background-color: grey;
+}
+#yellow{
+    background-color: yellow;
+}
+#red{
+    background-color: red;
+}
+#blue{
+    background-color: blue;
+}
